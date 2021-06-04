@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HomeAccounting.Console
+namespace HomeAccounting.ConsoleSystem
 {
     class Program
     {
